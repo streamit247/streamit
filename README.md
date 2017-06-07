@@ -1,2 +1,0 @@
-# streamit
-Streamit Addon
